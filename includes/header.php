@@ -25,7 +25,12 @@
             </div>
             <div class="col-auto d-none d-md-block">
                 <p class="text-white mb-0">
-                    <u class="fw-semibold">Aprovecha nuestras promociones</u> - Nanoplastia $880
+                    <u class="fw-semibold">Aprovecha nuestras promociones</u>
+                </p>
+            </div>
+            <div class="col-auto d-none d-md-block">
+                <p class="text-white mb-0">
+                    <u class="fw-semibold">
                 </p>
             </div>
         </div>
@@ -42,7 +47,7 @@
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                             </li>
                             <li>
-                                <a href="#"><i class="fab instagram"></i></a>
+                                <a href="#"><i class="fab fa-instagram"></i></a>
                             </li>
                         </ul>
                     </div>
