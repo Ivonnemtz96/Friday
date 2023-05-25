@@ -7,12 +7,15 @@ include('includes/head.php');
 ?>
 
 <body>
-    <?php
-        include('includes/header.php');
-        include('modules/index.php');
-        include('includes/footer.php');
-        include('includes/scripts.php');   
-    ?>
+    <div class="main-wrapper">
+        <?php
+            include('includes/header.php');
+            include('modules/index.php');
+            include('includes/footer.php');
+            include('includes/scripts.php');   
+        ?>
+    </div>
+
 </body>
 
 </html>
