@@ -1801,7 +1801,7 @@ select {
 /*----------------------------------------*/
 .header-area {
   padding: 0px 0;
-  background-color: rgba(3, 3, 3, 0.77);
+  background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
   top: 0;
   left: 0;
@@ -2288,7 +2288,7 @@ select {
 
 .sticky {
   position: fixed;
-  background-color: rgb(3, 3, 3);
+  background-color: rgb(255, 255, 255);
 }
 .sticky .header-navbar .navbar-menu li {
   padding: 25px 23px;

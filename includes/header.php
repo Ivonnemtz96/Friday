@@ -1,13 +1,12 @@
  <!-- Header Start -->
  <div id="header" class="section header-area">
      <div class="container">
-
          <!-- Header Wrapper Start -->
          <div class="header-wrapper">
 
              <!-- Header Logo Start -->
              <div class="header-logo">
-                 <a href="/"><img src="assets/images/logo.webp" width="172" height="45" alt="Logo"></a>
+                 <a href="/"><img src="/assets/images/logo.webp?=1" width="172" height="45" alt="Logo"></a>
              </div>
              <!-- Header Logo End -->
 
@@ -15,10 +14,10 @@
              <div class="header-navbar d-none d-lg-block">
                  <ul class="navbar-menu">
                      <li><a href="/">Inicio</a></li>
-                     <li><a href="/">Nosotros</a></li>
-                     <li><a href="/">Servicios</a></li>
-                     <li><a href="/">Menú</a></li>
-                     <li><a href="/">Promociones</a></li>
+                     <li><a href="/#nosotros">Nosotros</a></li>
+                     <li><a href="/#servicios">Servicios</a></li>
+                     <li><a href="/#menu">Menú</a></li>
+                     <li><a href="/#promos">Promociones</a></li>
                      <!-- <li>
                          <a href="#">Spa</a>
                          <ul class="sub-menu">
@@ -77,7 +76,7 @@
                              <li><a href="blog-details-right-sidebar.html">Blog Details Right Sidebar</a></li>
                          </ul>
                      </li> -->
-                     <li><a href="/">Contacto</a></li>
+                     <li><a href="/#contacto">Contacto</a></li>
                  </ul>
              </div>
              <!-- Header Navbar End -->
@@ -100,7 +99,7 @@
                                      <!-- Single Cart Item Start -->
                                      <div class="single-cart-item">
                                          <div class="cart-thumb">
-                                             <img src="assets/images/mini-cart/cart-1.webp" alt="Cart">
+                                             <img src="/assets/images/mini-cart/cart-1.webp" alt="Cart">
                                              <span class="product-quantity">1x</span>
                                          </div>
                                          <div class="cart-item-content">
@@ -119,7 +118,7 @@
                                      <!-- Single Cart Item Start -->
                                      <div class="single-cart-item">
                                          <div class="cart-thumb">
-                                             <img src="assets/images/mini-cart/cart-2.webp" alt="Cart">
+                                             <img src="/assets/images/mini-cart/cart-2.webp" alt="Cart">
                                              <span class="product-quantity">1x</span>
                                          </div>
                                          <div class="cart-item-content">
@@ -138,7 +137,7 @@
                                      <!-- Single Cart Item Start -->
                                      <div class="single-cart-item">
                                          <div class="cart-thumb">
-                                             <img src="assets/images/mini-cart/cart-3.webp" alt="Cart">
+                                             <img src="/assets/images/mini-cart/cart-3.webp" alt="Cart">
                                              <span class="product-quantity">1x</span>
                                          </div>
                                          <div class="cart-item-content">
@@ -229,7 +228,7 @@
      <div class="offcanvas-header">
          <!-- Logo Start -->
          <div class="logo">
-             <a href="/"><img src="assets/images/logo.webp" width="172" height="45" alt="Logo"></a>
+             <a href="/"><img src="/assets/images/logo.webp?=1" width="172" height="45" alt="Logo"></a>
          </div>
          <!-- Logo End -->
          <button type="button" class="close" data-bs-dismiss="offcanvas">
@@ -242,11 +241,11 @@
          <div class="mobile-menu offcanvas-menu">
              <ul class="navbar-menu">
                  <li><a href="/">Inicio</a></li>
-                 <li><a href="/">Nosotros</a></li>
-                 <li><a href="/">Servicios</a></li>
-                 <li><a href="/">Menú</a></li>
-                 <li><a href="/">Promociones</a></li>
-                 <li><a href="/">Contacto</a></li>
+                 <li><a href="/#nosotros">Nosotros</a></li>
+                 <li><a href="/#servicios">Servicios</a></li>
+                 <li><a href="/#menu">Menú</a></li>
+                 <li><a href="/#promos">Promociones</a></li>
+                 <li><a href="/#contacto">Contacto</a></li>
              </ul>
          </div>
      </div>

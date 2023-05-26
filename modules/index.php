@@ -93,7 +93,7 @@
 <!-- Feature End -->
 
 <!-- About Start -->
-<div class="section section-padding-02 about-section">
+<div class="section section-padding-02 about-section" id="nosotros">
     <img class="shape-1 movebounce-03" src="/assets/images/shape/shape-5.webp" width="420" height="210" alt="Shape">
     <div class="container">
         <!-- About Wrapper Start -->
@@ -132,7 +132,7 @@
 <!-- About End -->
 
 <!-- Services Start -->
-<div class="section services-section" style="background-image: url(/assets/images/patan-bg.webp);">
+<div class="section services-section" style="background-image: url(/assets/images/patan-bg.webp);" id="servicios">
     <!-- Services Wrapper Start -->
     <div class="services-wrapper">
         <!-- Services Main Content Start -->
@@ -343,7 +343,7 @@
 <!-- Why Choose US End -->
 
 <!-- Spa Pricing Start -->
-<div class="section section-padding-02">
+<div class="section section-padding-02" id="menu">
     <div class="container">
         <!-- Spa Pricing Wrapper Start -->
         <div class="spa-pricing-wrapper">
@@ -396,11 +396,13 @@
         </div>
         <!-- Spa Pricing Wrapper End -->
     </div>
+    <div id="promos" style="margin-bottom: 2rem;"></div>
 </div>
 <!-- Spa Pricing End -->
 
 <!-- Call to Action Start -->
-<div class="section call-to-action-serction" style="background-image: url(/assets/images/patan-bg-2.webp);">
+<div class="section call-to-action-serction" style="background-image: url(/assets/images/patan-bg-2.webp);" >
+
     <!-- Call to Action bg Start -->
     <div class="call-to-action-bg"
         style="background-image: url(/assets/images/cta-bg2.webp); background-position: top; background-size: cover;">
@@ -570,7 +572,7 @@
 <!-- Testimonial End -->
 
 <!-- Contact Start -->
-<div class="section section-padding-02">
+<div class="section section-padding-02" id="contacto">
     <div class="container">
         <!-- Contact Wrapper Start -->
         <div class="contact-wrapper">
