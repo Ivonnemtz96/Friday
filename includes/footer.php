@@ -2,7 +2,7 @@
  <div class="footer-section section">
 
      <!-- Footer Top Start -->
-     <div class="footer-top">
+     <div hidden class="footer-top">
 
          <img class="shape-1 movebounce-01" src="assets/images/shape/shape-16.webp" width="185" height="231"
              alt="Shape">
@@ -148,8 +148,8 @@
                  </div>
 
                  <div class="copyright-text">
-                     <p>&copy; 2022 <span> Peerly Spa </span> Made with <i class="fa fa-heart"></i> by <a
-                             href="#">Codecarnival</a></p>
+                     <p>&copy; 2023 <span> Friday's Beauty Room </span> Diseñado por <a
+                             href="https://bananagroup.mx" target="_blank"><strong>Banana Group Marketing</strong></a></p>
                  </div>
 
              </div>
