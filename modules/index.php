@@ -158,7 +158,7 @@
                             <!-- Services Start -->
                             <div class="single-services text-center">
                                 <div class="services-image">
-                                    <a href="therapy-details.html"><img src="/assets/images/services/services-1.webp"
+                                    <a href="therapy-details.html"><img src="/assets/images/services/services-1.webp?=1"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
@@ -173,7 +173,7 @@
                             <!-- Services Start -->
                             <div class="single-services text-center">
                                 <div class="services-image">
-                                    <a href="therapy-details.html"><img src="/assets/images/services/services-2.webp"
+                                    <a href="therapy-details.html"><img src="/assets/images/services/services-2.webp?=1"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $64</span> -->
                                 </div>
@@ -188,7 +188,7 @@
                             <!-- Services Start -->
                             <div class="single-services text-center">
                                 <div class="services-image">
-                                    <a href="therapy-details.html"><img src="/assets/images/services/services-3.webp"
+                                    <a href="therapy-details.html"><img src="/assets/images/services/services-3.webp?=1"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
@@ -205,7 +205,7 @@
                             <!-- Services Start -->
                             <div class="single-services text-center">
                                 <div class="services-image">
-                                    <a href="therapy-details.html"><img src="/assets/images/services/services-3.webp"
+                                    <a href="therapy-details.html"><img src="/assets/images/services/services-5.webp?=1"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
@@ -221,22 +221,23 @@
                             <!-- Services Start -->
                             <div class="single-services text-center">
                                 <div class="services-image">
-                                    <a href="therapy-details.html"><img src="/assets/images/services/services-3.webp"
+                                    <a href="therapy-details.html"><img src="/assets/images/services/services-4.webp?=1"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
                                 <div class="services-content">
-                                    <h4 class="title"><a href="therapy-details.html">Cortes de cabello</a></h4>
+                                    <h4 class="title"><a href="therapy-details.html">Gelish</a></h4>
                                     <p>Oil Massage Spa is the best your health and refresh</p>
                                 </div>
                             </div>
                             <!-- Services End -->
                         </div>
-                        <div class="swiper-slide">
+
+                        <div hidden class="swiper-slide">
                             <!-- Services Start -->
                             <div class="single-services text-center">
                                 <div class="services-image">
-                                    <a href="therapy-details.html"><img src="/assets/images/services/services-3.webp"
+                                    <a href="therapy-details.html"><img src="/assets/images/services/services-3.webp?=1"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
@@ -256,7 +257,8 @@
         <!-- Services Main Content End -->
 
         <!-- Services Background Start -->
-        <div class="services-background" style="background-image: url(/assets/images/services/service-bg.webp?=1);"></div>
+        <div class="services-background" style="background-image: url(/assets/images/services/service-bg.webp?=1);">
+        </div>
         <!-- Services Background End -->
 
     </div>
@@ -271,10 +273,11 @@
 
         <!-- Section Title Start -->
         <div class="section-title text-center">
-            <h6 class="sub-title">Good For Health</h6>
-            <h2 class="title">Why we are different </h2>
-            <p>Peerly is the best Spa therapy is the best way of Spa cases are some perfectly simple and easy to
-                distinguish free hour</p>
+            <h6 class="sub-title">Cabello sin enredos</h6>
+            <h2 class="title">¿Qué nos hace diferentes? </h2>
+            <p>
+                Descubre por qué somos la elección perfecta.
+            </p>
         </div>
         <!-- Section Title End -->
 
@@ -284,20 +287,20 @@
                 <div class="col-lg-3 col-sm-6 order-2 order-lg-1">
                     <!-- Single Choose Start -->
                     <div class="single-choose" data-aos="fade-up" data-aos-delay="100">
-                        <h4 class="title">Exprienced Specialists</h4>
-                        <p>Message Therapy is the best way of Spa cases are perfectly simple and easy</p>
+                        <h4 class="title">Experiencia y profesionalismo</h4>
+                        <p>Equipo altamente capacitado y con amplia experiencia.</p>
                     </div>
                     <!-- Single Choose End -->
                     <!-- Single Choose Start -->
                     <div class="single-choose" data-aos="fade-up" data-aos-delay="200">
-                        <h4 class="title">100% Safe & Natural</h4>
-                        <p>Message Therapy is the best way of Spa cases are perfectly simple and easy</p>
+                        <h4 class="title">Atención personalizada</h4>
+                        <p>Nos enfocamos en brindar un trato personalizado a cada cliente.</p>
                     </div>
                     <!-- Single Choose End -->
                     <!-- Single Choose Start -->
                     <div class="single-choose" data-aos="fade-up" data-aos-delay="300">
-                        <h4 class="title">Special gifts & Offers</h4>
-                        <p>Message Therapy is the best way of Spa cases are perfectly simple and easy</p>
+                        <h4 class="title">Variedad de servicios</h4>
+                        <p>Ofrecemos desde Nanoplastia hasta manicure y pedicure con jelly</p>
                     </div>
                     <!-- Single Choose End -->
                 </div>
@@ -305,7 +308,7 @@
                     <!-- Choose Image Start -->
                     <div class="choose-image" data-aos="fade-up" data-aos-delay="200">
                         <div class="image">
-                            <img src="/assets/images/choose.webp" width="488" height="499" alt="Choose">
+                            <img src="/assets/images/choose.webp?=1" width="488" height="499" alt="Choose">
                         </div>
                     </div>
                     <!-- Choose Image End -->
@@ -313,20 +316,22 @@
                 <div class="col-lg-3 col-sm-6 order-3 order-lg-3">
                     <!-- Single Choose Start -->
                     <div class="single-choose" data-aos="fade-up" data-aos-delay="100">
-                        <h4 class="title">Qulaity & Natural Herbs</h4>
-                        <p>Message Therapy is the best way of Spa cases are perfectly simple and easy</p>
+                        <h4 class="title">Resultados excepcionales</h4>
+                        <p>Trabajamos con precisión y dedicación para asegurarnos de que nuestros clientes estén
+                            satisfechos con los resultados finales.</p>
                     </div>
                     <!-- Single Choose End -->
                     <!-- Single Choose Start -->
                     <div class="single-choose" data-aos="fade-up" data-aos-delay="200">
-                        <h4 class="title">Unique from other Spa</h4>
-                        <p>Message Therapy is the best way of Spa cases are perfectly simple and easy</p>
+                        <h4 class="title">Productos de alta calidad</h4>
+                        <p>Productos de alta calidad, que garantizan resultados excepcionales y cuidado óptimo para el
+                            cabello, la piel y las uñas.</p>
                     </div>
                     <!-- Single Choose End -->
                     <!-- Single Choose Start -->
                     <div class="single-choose" data-aos="fade-up" data-aos-delay="300">
-                        <h4 class="title">Spa Consultancy</h4>
-                        <p>Message Therapy is the best way of Spa cases are perfectly simple and easy</p>
+                        <h4 class="title">Horarios perfectos</h4>
+                        <p>Abrimos de lunes a sábado desde las 9:00 hasta las 20:00</p>
                     </div>
                     <!-- Single Choose End -->
                 </div>
@@ -350,16 +355,17 @@
                     <div class="spa-pricing-content" data-aos="fade-right" data-aos-delay="200">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <h6 class="sub-title">Spa Pricing</h6>
-                            <h2 class="title">Our Spa & <br> Therapy Price <img class="shape"
+                            <h6 class="sub-title">Menú de precios</h6>
+                            <h2 class="title">Todos los días <br> pueden ser viernes <img class="shape"
                                     src="/assets/images/shape/shape-15.webp" alt="Shape"></h2>
                         </div>
                         <!-- Section Title End -->
                         <p class="text">Modern & Latest Spa Therapy is always available for our valuable clients </p>
-                        <p>Peerly is the best Spa therapy is the best way of Spa cases are perfectly simple and easy to
-                            distinguish. In a free hour, power can you for a relaxation and fresh mind with great enjoy
-                            take some which of us ever undertakes laborious satisfaction</p>
-                        <a href="pricing.html" class="btn btn-primary btn-hover-dark">View more</a>
+                        <p>
+                            Nuestro objetivo es hacer que nuestros clientes se sientan hermosos, confiados y satisfechos
+                            con nuestros servicios.
+                        </p>
+                        <a href="pricing.html" class="btn btn-primary btn-hover-dark">Agendar cita</a>
                     </div>
                     <!-- Spa Pricing Content End -->
                 </div>
@@ -367,8 +373,8 @@
                     <!-- Spa Pricing Table Start -->
                     <div class="spa-pricing-table" data-aos="fade-left" data-aos-delay="200">
 
-                        <img class="shape-4 movebounce-02" src="/assets/images/shape/shape-9.webp" width="178"
-                            height="138" alt="Shape">
+                        <!-- <img class="shape-4 movebounce-02" src="/assets/images/shape/shape-9.webp" width="178"
+                            height="138" alt="Shape"> -->
 
                         <div class="spa-pricing-table-wrapper pricing-active">
                             <img class="shape-1" src="/assets/images/shape/shape-2.webp" alt="Shape">
@@ -376,168 +382,8 @@
                             <img class="shape-3" src="/assets/images/shape/shape-3.webp" alt="Shape">
 
                             <div class="swiper-container">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="pricing-table-wrapper">
+                                <img src="/assets/images/menu.jpg" alt="">
 
-                                            <!-- Ssingle Pricing Start -->
-                                            <div class="single-price">
-                                                <p class="title">Aroma Therapy</p>
-                                                <span class="line"></span>
-                                                <p class="price">$75</p>
-                                            </div>
-                                            <!-- Ssingle Pricing End -->
-
-                                            <!-- Ssingle Pricing Start -->
-                                            <div class="single-price">
-                                                <p class="title">Sauna Relax</p>
-                                                <span class="line"></span>
-                                                <p class="price">$60</p>
-                                            </div>
-                                            <!-- Ssingle Pricing End -->
-
-                                            <!-- Ssingle Pricing Start -->
-                                            <div class="single-price">
-                                                <p class="title">Geothermal Spa</p>
-                                                <span class="line"></span>
-                                                <p class="price">$90</p>
-                                            </div>
-                                            <!-- Ssingle Pricing End -->
-
-                                            <!-- Ssingle Pricing Start -->
-                                            <div class="single-price">
-                                                <p class="title">Face Mask</p>
-                                                <span class="line"></span>
-                                                <p class="price">$56</p>
-                                            </div>
-                                            <!-- Ssingle Pricing End -->
-
-                                            <!-- Ssingle Pricing Start -->
-                                            <div class="single-price">
-                                                <p class="title">Manicure Pack</p>
-                                                <span class="line"></span>
-                                                <p class="price">$35</p>
-                                            </div>
-                                            <!-- Ssingle Pricing End -->
-
-                                            <!-- Ssingle Pricing Start -->
-                                            <div class="single-price">
-                                                <p class="title">Hot Ston Spa</p>
-                                                <span class="line"></span>
-                                                <p class="price">$95</p>
-                                            </div>
-                                            <!-- Ssingle Pricing End -->
-
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="pricing-table-wrapper">
-
-                                            <!-- Ssingle Pricing Start -->
-                                            <div class="single-price">
-                                                <p class="title">Aroma Therapy</p>
-                                                <span class="line"></span>
-                                                <p class="price">$75</p>
-                                            </div>
-                                            <!-- Ssingle Pricing End -->
-
-                                            <!-- Ssingle Pricing Start -->
-                                            <div class="single-price">
-                                                <p class="title">Sauna Relax</p>
-                                                <span class="line"></span>
-                                                <p class="price">$60</p>
-                                            </div>
-                                            <!-- Ssingle Pricing End -->
-
-                                            <!-- Ssingle Pricing Start -->
-                                            <div class="single-price">
-                                                <p class="title">Geothermal Spa</p>
-                                                <span class="line"></span>
-                                                <p class="price">$90</p>
-                                            </div>
-                                            <!-- Ssingle Pricing End -->
-
-                                            <!-- Ssingle Pricing Start -->
-                                            <div class="single-price">
-                                                <p class="title">Face Mask</p>
-                                                <span class="line"></span>
-                                                <p class="price">$56</p>
-                                            </div>
-                                            <!-- Ssingle Pricing End -->
-
-                                            <!-- Ssingle Pricing Start -->
-                                            <div class="single-price">
-                                                <p class="title">Manicure Pack</p>
-                                                <span class="line"></span>
-                                                <p class="price">$35</p>
-                                            </div>
-                                            <!-- Ssingle Pricing End -->
-
-                                            <!-- Ssingle Pricing Start -->
-                                            <div class="single-price">
-                                                <p class="title">Hot Ston Spa</p>
-                                                <span class="line"></span>
-                                                <p class="price">$95</p>
-                                            </div>
-                                            <!-- Ssingle Pricing End -->
-
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="pricing-table-wrapper">
-
-                                            <!-- Ssingle Pricing Start -->
-                                            <div class="single-price">
-                                                <p class="title">Aroma Therapy</p>
-                                                <span class="line"></span>
-                                                <p class="price">$75</p>
-                                            </div>
-                                            <!-- Ssingle Pricing End -->
-
-                                            <!-- Ssingle Pricing Start -->
-                                            <div class="single-price">
-                                                <p class="title">Sauna Relax</p>
-                                                <span class="line"></span>
-                                                <p class="price">$60</p>
-                                            </div>
-                                            <!-- Ssingle Pricing End -->
-
-                                            <!-- Ssingle Pricing Start -->
-                                            <div class="single-price">
-                                                <p class="title">Geothermal Spa</p>
-                                                <span class="line"></span>
-                                                <p class="price">$90</p>
-                                            </div>
-                                            <!-- Ssingle Pricing End -->
-
-                                            <!-- Ssingle Pricing Start -->
-                                            <div class="single-price">
-                                                <p class="title">Face Mask</p>
-                                                <span class="line"></span>
-                                                <p class="price">$56</p>
-                                            </div>
-                                            <!-- Ssingle Pricing End -->
-
-                                            <!-- Ssingle Pricing Start -->
-                                            <div class="single-price">
-                                                <p class="title">Manicure Pack</p>
-                                                <span class="line"></span>
-                                                <p class="price">$35</p>
-                                            </div>
-                                            <!-- Ssingle Pricing End -->
-
-                                            <!-- Ssingle Pricing Start -->
-                                            <div class="single-price">
-                                                <p class="title">Hot Ston Spa</p>
-                                                <span class="line"></span>
-                                                <p class="price">$95</p>
-                                            </div>
-                                            <!-- Ssingle Pricing End -->
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-pagination"></div>
                             </div>
 
                             <img class="shape-2" src="/assets/images/shape/shape-2.webp" alt="Shape">
@@ -557,7 +403,9 @@
 <!-- Call to Action Start -->
 <div class="section call-to-action-serction" style="background-image: url(/assets/images/patan-bg-2.webp);">
     <!-- Call to Action bg Start -->
-    <div class="call-to-action-bg" style="background-image: url(/assets/images/cta-bg.webp);"></div>
+    <div class="call-to-action-bg"
+        style="background-image: url(/assets/images/cta-bg2.webp); background-position: top; background-size: cover;">
+    </div>
     <!-- Call to Action bg End -->
 
     <!-- Call to Action Content Start -->
@@ -572,19 +420,18 @@
         <div class="call-to-action-wrapper text-center" data-aos="fade-up" data-aos-delay="200">
             <!-- Section Title Start -->
             <div class="section-title text-center">
-                <h6 class="sub-title">Special Offer</h6>
-                <h2 class="title">Spa Weekend!</h2>
-                <p>Peerly is the best Spa therapy is the best way of Spa cases are some perfectly simple and easy to
-                    distinguish free hour</p>
+                <h6 class="sub-title">Promociones especiales</h6>
+                <h2 class="title">Cabello suave con nanoplastia</h2>
+                <p>El secreto para un cabello suave y manejable</p>
             </div>
             <!-- Section Title End -->
-            <h4 class="discount">Get up to 65% Discount</h4>
-            <a href="contact.html" class="btn btn-primary btn-hover-dark">Book Now</a>
+            <h4 class="discount">$850 <strong>* Con cita solo 9:00 am *</strong></h4>
+            <a href="contact.html" class="btn btn-primary btn-hover-dark">Whatsapp</a>
         </div>
         <!-- Call to Action Wrapper End -->
 
-        <img class="shape-3 movebounce-03" src="/assets/images/shape/shape-12.webp" width="216" height="190"
-            alt="Shape">
+        <!-- <img class="shape-3 movebounce-03" src="/assets/images/shape/shape-12.webp" width="216" height="190"
+            alt="Shape"> -->
 
         <img class="shape-4 movebounce-02" src="/assets/images/shape/shape-13.webp" width="363" height="231"
             alt="Shape">
@@ -595,18 +442,18 @@
 <!-- Call to Action End -->
 
 <!-- Testimonial Start -->
-<div class="section section-padding testimonial-section">
+<div class="section section-padding testimonial-section" style="margin-bottom: 3rem;">
 
-    <img class="shape-1 movebounce-03" src="/assets/images/shape/shape-14.webp" width="212" height="191" alt="Shape">
+    <!-- <img class="shape-1 movebounce-03" src="/assets/images/shape/shape-14.webp" width="212" height="191" alt="Shape"> -->
 
     <div class="container">
 
         <!-- Section Title Start -->
         <div class="section-title text-center">
-            <h6 class="sub-title">Testimonial</h6>
-            <h2 class="title">Our Client’s Expression</h2>
-            <p>Peerly is the best Spa therapy is the best way of Spa cases are some perfectly simple and easy to
-                distinguish free hour</p>
+            <h6 class="sub-title">Opiniones</h6>
+            <h2 class="title">¿Qué dicen nuestros clientes?</h2>
+            <!-- <p>Peerly is the best Spa therapy is the best way of Spa cases are some perfectly simple and easy to
+                distinguish free hour</p> -->
         </div>
         <!-- Section Title End -->
 
@@ -619,16 +466,18 @@
                             <!-- Single Testimonial Start -->
                             <div class="swiper-slide single-testimonial">
                                 <div class="testimonial-author">
-                                    <img src="/assets/images/author/author-1.webp" width="206" height="206"
+                                    <img src="/assets/images/author/author-1.webp?=1" width="206" height="206"
                                         alt="Author">
                                     <div class="author-quote">
                                         <i class="icofont-quote-right"></i>
                                     </div>
                                 </div>
                                 <div class="testimonial-content">
-                                    <p>Peerly is the best Spa centre. They serve best service for us amd I am very much
-                                        so satisfy with them is the best way of Spa cases perfectly simple and easy</p>
-                                    <h4 class="name">Rose Williams</h4>
+                                    <p>
+                                        ¡Excelente servicio y calidad! 🙌🏻
+                                        Muero de ganas por ir otra vez. 🤩
+                                    </p>
+                                    <h4 class="name">Mariel García</h4>
                                     <div class="rating">
                                         <div class="rating-star" style="width: 100%;"></div>
                                     </div>
@@ -638,18 +487,20 @@
                             <!-- Single Testimonial Start -->
                             <div class="swiper-slide swiper-slide single-testimonial">
                                 <div class="testimonial-author">
-                                    <img src="/assets/images/author/author-2.webp" width="206" height="206"
+                                    <img src="/assets/images/author/author-2.webp?=1" width="206" height="206"
                                         alt="Author">
                                     <div class="author-quote">
                                         <i class="icofont-quote-right"></i>
                                     </div>
                                 </div>
                                 <div class="testimonial-content">
-                                    <p>Peerly is the best Spa centre. They serve best service for us amd I am very much
-                                        so satisfy with them is the best way of Spa cases perfectly simple and easy</p>
-                                    <h4 class="name">Rose Williams</h4>
+                                    <p>
+                                        Excelente ambiente y servicio, un trabajo muy profesional y a un precio
+                                        accesible me encanto el diseño y el lugar 100% recomendado ✨✨✨✨
+                                    </p>
+                                    <h4 class="name">Linda C. Ruelas</h4>
                                     <div class="rating">
-                                        <div class="rating-star" style="width: 80%;"></div>
+                                        <div class="rating-star" style="width: 100%;"></div>
                                     </div>
                                 </div>
                             </div>
@@ -663,18 +514,19 @@
                             <!-- Single Testimonial Start -->
                             <div class="swiper-slide swiper-slide single-testimonial">
                                 <div class="testimonial-author">
-                                    <img src="/assets/images/author/author-2.webp" width="206" height="206"
+                                    <img src="/assets/images/author/author-2.webp?=1" width="206" height="206"
                                         alt="Author">
                                     <div class="author-quote">
                                         <i class="icofont-quote-right"></i>
                                     </div>
                                 </div>
                                 <div class="testimonial-content">
-                                    <p>Peerly is the best Spa centre. They serve best service for us amd I am very much
-                                        so satisfy with them is the best way of Spa cases perfectly simple and easy</p>
-                                    <h4 class="name">Rose Williams</h4>
+                                    <p>
+                                        Me gusto muchísimo el servicio, era justo lo que esperaba! 💅🏻
+                                    </p>
+                                    <h4 class="name">Brianna Ochoa</h4>
                                     <div class="rating">
-                                        <div class="rating-star" style="width: 80%;"></div>
+                                        <div class="rating-star" style="width: 100%;"></div>
                                     </div>
                                 </div>
                             </div>
@@ -683,16 +535,19 @@
                             <!-- Single Testimonial Start -->
                             <div class="swiper-slide single-testimonial">
                                 <div class="testimonial-author">
-                                    <img src="/assets/images/author/author-1.webp" width="206" height="206"
+                                    <img src="/assets/images/author/author-1.webp?=1" width="206" height="206"
                                         alt="Author">
                                     <div class="author-quote">
                                         <i class="icofont-quote-right"></i>
                                     </div>
                                 </div>
                                 <div class="testimonial-content">
-                                    <p>Peerly is the best Spa centre. They serve best service for us amd I am very much
-                                        so satisfy with them is the best way of Spa cases perfectly simple and easy</p>
-                                    <h4 class="name">Rose Williams</h4>
+                                    <p>
+                                        Me encantó 😍
+                                        me repararon el cabello, quedo increíble, además el servicio bien
+                                        atentas,SUPEEEER RECOMENDADOS!
+                                    </p>
+                                    <h4 class="name">Jessi Jimenez </h4>
                                     <div class="rating">
                                         <div class="rating-star" style="width: 100%;"></div>
                                     </div>
@@ -716,7 +571,7 @@
 <!-- Testimonial End -->
 
 <!-- Blog Start -->
-<div class="section section-padding">
+<div hidden class="section section-padding">
     <div class="container">
         <!-- Blog Wrapper Start -->
         <div class="blog-wrapper">
@@ -782,7 +637,7 @@
 <!-- Blog End -->
 
 <!-- Brand Start -->
-<div class="section section-padding-02">
+<div hidden class="section section-padding-02">
     <div class="container">
         <!-- Brand Start -->
         <div class="brand-wrapper brand-active">
@@ -820,4 +675,3 @@
     </div>
 </div>
 <!-- Brand End -->
-

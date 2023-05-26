@@ -3097,7 +3097,7 @@ select {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(../images/why-chose.webp);
+  background-image: url(../images/why-chose2.webp);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -3494,7 +3494,7 @@ select {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(../images/testimonial-shape.webp);
+  background-image: url(../images/testimonial-shape.webp?=1);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
