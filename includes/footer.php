@@ -136,18 +136,18 @@
      <div class="footer-copyright">
          <div class="container">
              <!-- Copyright Wrapper Start -->
-             <div class="copyright-wrapper flex-row-reverse">
+             <div class="copyright-wrapper flex-row-reverse" style="justify-content: center;">
 
-                 <div class="payment-method">
+                 <!-- <div class="payment-method">
                      <ul class="payment-icon">
                          <li><img src="assets/images/payment-icon/icon-1.webp" height="15" alt="Icon"></li>
                          <li><img src="assets/images/payment-icon/icon-2.webp" height="15" alt="Icon"></li>
                          <li><img src="assets/images/payment-icon/icon-3.webp" height="15" alt="Icon"></li>
                          <li><img src="assets/images/payment-icon/icon-4.webp" height="15" alt="Icon"></li>
                      </ul>
-                 </div>
+                 </div> -->
 
-                 <div class="copyright-text">
+                 <div class="copyright-text text-center">
                      <p>&copy; 2023 <span> Friday's Beauty Room </span> Diseñado por <a
                              href="https://bananagroup.mx" target="_blank"><strong>Banana Group Marketing</strong></a></p>
                  </div>

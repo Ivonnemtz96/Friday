@@ -9,15 +9,14 @@
                     <div class="slider-content content-white">
                         <h1 class="title">El Secreto de <br> una Belleza Duradera </h1>
                         <ul class="slider-meta">
-                            <li><a href="#" class="btn btn-white btn-hover-primary">¡Reservar ahora!</a></li>
+                            <li><a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita." target="_blank" class="btn btn-white btn-hover-primary">¡Reservar ahora!</a></li>
                             <li><a href="https://www.youtube-nocookie.com/embed/Ga6RYejo6Hk"
                                     class="video-play glightbox"><span class="icon"><i class="fa fa-play"></i></span>
                                     Ver video</a></li>
                         </ul>
                         <ul class="slider-social">
-                            <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="https://www.facebook.com/FridaysBeautyRoom" target="_blank"><i class="fa fa-facebook-f"></i></a></li>
+                            <li><a href="https://www.instagram.com/fridays_beautyroom/?fbclid=IwAR2FywYbv2oe54tQ8iMcgKbNKZL4ZEZSeiAmjiiw_EHLDo34sQ7XQgw_g30" target="_blank"><i class="fa fa-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -30,15 +29,14 @@
                     <div class="slider-content content-white">
                         <h1 class="title">Dale a tus uñas <br> el amor que se merecen</h1>
                         <ul class="slider-meta">
-                            <li><a href="#" class="btn btn-white btn-hover-primary">¡Reservar ahora!</a></li>
+                            <li><a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita." target="_blank">¡Reservar ahora!</a></li>
                             <li><a href="https://www.youtube-nocookie.com/embed/Ga6RYejo6Hk"
                                     class="video-play glightbox"><span class="icon"><i class="fa fa-play"></i></span>
                                     Ver video</a></li>
                         </ul>
                         <ul class="slider-social">
-                            <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="https://www.facebook.com/FridaysBeautyRoom" target="_blank"><i class="fa fa-facebook-f"></i></a></li>
+                            <li><a href="https://www.instagram.com/fridays_beautyroom/?fbclid=IwAR2FywYbv2oe54tQ8iMcgKbNKZL4ZEZSeiAmjiiw_EHLDo34sQ7XQgw_g30" target="_blank"><i class="fa fa-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -57,10 +55,10 @@
                 <!-- Single Features Start -->
                 <div class="single-feature text-center">
                     <img src="/assets/images/features/icon-1.webp?=1" height="156" alt="feature">
-                    <h4 class="title"><a href="hot-stone-spa.html">Nanoplastia</a></h4>
+                    <h4 class="title"><a href="#">Nanoplastia</a></h4>
                     <p>Message Therapy is the best way of Spa cases are perfectly simple and easy to distinguish. In a
                         free hour,power</p>
-                    <a href="hot-stone-spa.html" class="more">Read more</a>
+                    <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita." target="_blank" class="more">Agendar ahora</a>
                 </div>
                 <!-- Single Features End -->
             </div>
@@ -68,10 +66,10 @@
                 <!-- Single Features Start -->
                 <div class="single-feature text-center">
                     <img src="/assets/images/features/icon-2.webp?=1" height="156" alt="feature">
-                    <h4 class="title"><a href="hot-stone-spa.html">Pedicure</a></h4>
+                    <h4 class="title"><a href="#">Pedicure</a></h4>
                     <p>Message Therapy is the best way of Spa cases are perfectly simple and easy to distinguish. In a
                         free hour,power</p>
-                    <a href="hot-stone-spa.html" class="more">Read more</a>
+                    <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita." target="_blank" class="more">Agendar ahora</a>
                 </div>
                 <!-- Single Features End -->
             </div>
@@ -79,10 +77,10 @@
                 <!-- Single Features Start -->
                 <div class="single-feature text-center">
                     <img src="/assets/images/features/icon-3.webp?=1" height="156" alt="feature">
-                    <h4 class="title"><a href="hot-stone-spa.html">Maquillaje</a></h4>
+                    <h4 class="title"><a href="#">Maquillaje</a></h4>
                     <p>Message Therapy is the best way of Spa cases are perfectly simple and easy to distinguish. In a
                         free hour,power</p>
-                    <a href="hot-stone-spa.html" class="more">Read more</a>
+                    <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita." target="_blank"  class="more">Agendar ahora</a>
                 </div>
                 <!-- Single Features End -->
             </div>
@@ -120,7 +118,7 @@
                         <p>Peerly is the best Spa therapy is the best way of Spa cases are some perfectly simple and
                             easy to distinguish. In a free hour,power can help you for a relaxation and fresh mind with
                             great enjoy take an example, which of us ever undertakes laborious physical satisfaction</p>
-                        <a href="about.html" class="btn btn-primary btn-hover-dark">Agendar cita</a>
+                        <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita." target="_blank" class="btn btn-primary btn-hover-dark">Agendar cita</a>
                     </div>
                     <!-- About Image End -->
                 </div>
@@ -145,8 +143,7 @@
             <div class="section-title text-center">
                 <h6 class="sub-title">Servicios</h6>
                 <h2 class="title">Déjate consentir</h2>
-                <p>Peerly is the best Spa therapy is the best way of Spa cases are some perfectly simple and easy to
-                    distinguish free hour</p>
+                <p>El lugar donde tus sueños de belleza se hacen realidad.</p>
             </div>
             <!-- Section Title End -->
 
@@ -157,13 +154,13 @@
                             <!-- Services Start -->
                             <div class="single-services text-center">
                                 <div class="services-image">
-                                    <a href="therapy-details.html"><img src="/assets/images/services/services-1.webp?=1"
+                                    <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita." target="_blank"><img src="/assets/images/services/services-1.webp?=1"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
                                 <div class="services-content">
-                                    <h4 class="title"><a href="therapy-details.html">Nanoplastia</a></h4>
-                                    <p>Hot Stone Spa is the best your health and refresh</p>
+                                    <h4 class="title"><a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita." target="_blank">Nanoplastia</a></h4>
+                                    <!-- <p>Hot Stone Spa is the best your health and refresh</p> -->
                                 </div>
                             </div>
                             <!-- Services End -->
@@ -172,13 +169,13 @@
                             <!-- Services Start -->
                             <div class="single-services text-center">
                                 <div class="services-image">
-                                    <a href="therapy-details.html"><img src="/assets/images/services/services-2.webp?=1"
+                                    <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita." target="_blank"><img src="/assets/images/services/services-2.webp?=1"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $64</span> -->
                                 </div>
                                 <div class="services-content">
-                                    <h4 class="title"><a href="therapy-details.html">Manicure</a></h4>
-                                    <p>Face Scrub Spa is the best your health and refresh</p>
+                                    <h4 class="title"><a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita." target="_blank">Manicure</a></h4>
+                                    <!-- <p>Face Scrub Spa is the best your health and refresh</p> -->
                                 </div>
                             </div>
                             <!-- Services End -->
@@ -187,13 +184,13 @@
                             <!-- Services Start -->
                             <div class="single-services text-center">
                                 <div class="services-image">
-                                    <a href="therapy-details.html"><img src="/assets/images/services/services-3.webp?=1"
+                                    <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita." target="_blank"><img src="/assets/images/services/services-3.webp?=1"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
                                 <div class="services-content">
-                                    <h4 class="title"><a href="therapy-details.html">Maquillaje</a></h4>
-                                    <p>Oil Massage Spa is the best your health and refresh</p>
+                                    <h4 class="title"><a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita." target="_blank">Maquillaje</a></h4>
+                                    <!-- <p>Oil Massage Spa is the best your health and refresh</p> -->
                                 </div>
                             </div>
                             <!-- Services End -->
@@ -204,13 +201,13 @@
                             <!-- Services Start -->
                             <div class="single-services text-center">
                                 <div class="services-image">
-                                    <a href="therapy-details.html"><img src="/assets/images/services/services-5.webp?=1"
+                                    <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita." target="_blank"><img src="/assets/images/services/services-5.webp?=1"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
                                 <div class="services-content">
-                                    <h4 class="title"><a href="therapy-details.html">Pedicure</a></h4>
-                                    <p>Oil Massage Spa is the best your health and refresh</p>
+                                    <h4 class="title"><a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita." target="_blank">Pedicure</a></h4>
+                                    <!-- <p>Oil Massage Spa is the best your health and refresh</p> -->
                                 </div>
                             </div>
                             <!-- Services End -->
@@ -220,13 +217,13 @@
                             <!-- Services Start -->
                             <div class="single-services text-center">
                                 <div class="services-image">
-                                    <a href="therapy-details.html"><img src="/assets/images/services/services-4.webp?=1"
+                                    <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita." target="_blank"><img src="/assets/images/services/services-4.webp?=1"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
                                 <div class="services-content">
-                                    <h4 class="title"><a href="therapy-details.html">Gelish</a></h4>
-                                    <p>Oil Massage Spa is the best your health and refresh</p>
+                                    <h4 class="title"><a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita." target="_blank">Gelish</a></h4>
+                                    <!-- <p>Oil Massage Spa is the best your health and refresh</p> -->
                                 </div>
                             </div>
                             <!-- Services End -->
@@ -364,7 +361,7 @@
                             Nuestro objetivo es hacer que nuestros clientes se sientan hermosos, confiados y satisfechos
                             con nuestros servicios.
                         </p>
-                        <a href="pricing.html" class="btn btn-primary btn-hover-dark">Agendar cita</a>
+                        <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita." target="_blank" class="btn btn-primary btn-hover-dark">Agendar cita</a>
                     </div>
                     <!-- Spa Pricing Content End -->
                 </div>
@@ -427,7 +424,7 @@
             </div>
             <!-- Section Title End -->
             <h4 class="discount">$850 <strong>* Con cita solo 9:00 am *</strong></h4>
-            <a href="contact.html" class="btn btn-primary btn-hover-dark">Whatsapp</a>
+            <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita." target="_blank" class="btn btn-primary btn-hover-dark">Whatsapp</a>
         </div>
         <!-- Call to Action Wrapper End -->
 
