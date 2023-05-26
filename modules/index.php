@@ -2,7 +2,6 @@
 <div class="section slider-area slider-active">
     <div class="swiper-container">
         <div class="swiper-wrapper">
-
             <!-- Single Slider Start -->
             <div class="swiper-slide animation-style-01 single-slider d-flex align-items-center"
                 style="background-image: url(/assets/images/slider/slider-2.webp?=1);">
@@ -570,108 +569,132 @@
 </div>
 <!-- Testimonial End -->
 
-<!-- Blog Start -->
-<div hidden class="section section-padding">
+<!-- Contact Start -->
+<div class="section section-padding-02">
     <div class="container">
-        <!-- Blog Wrapper Start -->
-        <div class="blog-wrapper">
-            <div class="row">
-                <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-                    <!-- Blog Sidebar Title Start -->
-                    <div class="blog-sidebar-title">
-                        <!-- Section Title Start -->
-                        <div class="section-title">
-                            <h6 class="sub-title">Blog</h6>
-                            <h2 class="title">Latest Post <br> from Blog <img class="shape"
-                                    src="/assets/images/shape/shape-15.webp" alt="Shape"></h2>
-                        </div>
-                        <!-- Section Title End -->
-                        <p class="text">Deep discuss about Spa and Therapy Treamment</p>
-                        <a href="blog-left-sidebar.html" class="btn btn-primary btn-hover-dark">View more</a>
+        <!-- Contact Wrapper Start -->
+        <div class="contact-wrapper">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <!-- Contact Image Start -->
+                    <div class="contact-image " id="container1">
+                        <img src="assets/images/01.webp" width="541" height="520" alt="Contact">
+                        <img src="assets/images/02.webp" width="541" height="520" alt="Contact">
                     </div>
-                    <!-- Blog Sidebar Title End -->
+                    <!-- Contact Image End -->
                 </div>
-                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
-                    <!-- Single Blog Start -->
-                    <div class="single-blog">
-                        <div class="blgo-image">
-                            <a href="blog-details-right-sidebar.html"><img src="/assets/images/blog/blog-1.webp"
-                                    width="314" height="238" alt="Blog"></a>
-                        </div>
-                        <div class="blgo-content">
-                            <ul class="meta">
-                                <li><a href="#"><i class="fa fa-calendar"></i> 20 Aug, 2022</a></li>
-                                <li><a href="#"><i class="fa fa-user-o"></i> Thomas</a></li>
-                            </ul>
-                            <h3 class="title"><a href="blog-details-right-sidebar.html">Benefit of Hot Ston Spa for your
-                                    health & life.</a></h3>
-                        </div>
-                        <img src="/assets/images/shape/shape-4.webp" class="shape" alt="Shape">
-                    </div>
-                    <!-- Single Blog End -->
-                </div>
-                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-                    <!-- Single Blog Start -->
-                    <div class="single-blog">
-                        <div class="blgo-image">
-                            <a href="blog-details-right-sidebar.html"><img src="/assets/images/blog/blog-2.webp"
-                                    width="314" height="238" alt="Blog"></a>
-                        </div>
-                        <div class="blgo-content">
-                            <ul class="meta">
-                                <li><a href="#"><i class="fa fa-calendar"></i> 20 Aug, 2022</a></li>
-                                <li><a href="#"><i class="fa fa-user-o"></i> Thomas</a></li>
-                            </ul>
-                            <h3 class="title"><a href="blog-details-right-sidebar.html">Facial Scrub is natural
-                                    treatment for face.</a></h3>
-                        </div>
-                        <img src="/assets/images/shape/shape-4.webp" class="shape" alt="Shape">
-                    </div>
-                    <!-- Single Blog End -->
-                </div>
-            </div>
-        </div>
-        <!-- Blog Wrapper End -->
-    </div>
-</div>
-<!-- Blog End -->
+                <div class="col-lg-6">
+                    <!-- Contact Info Start -->
+                    <div class="contact-info">
+                        <h3 class="title">Información de contacto</h3>
+                        <p class="text">¡No esperes más para consentirte!</p>
 
-<!-- Brand Start -->
-<div hidden class="section section-padding-02">
-    <div class="container">
-        <!-- Brand Start -->
-        <div class="brand-wrapper brand-active">
-            <div class="swiper-container">
-                <div class="swiper-wrapper">
-                    <!-- Single Brand Start -->
-                    <div class="swiper-slide single-brand">
-                        <img src="/assets/images/brand/brand-1.webp" height="107" alt="Brand">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <!-- Single Info Start -->
+                                <div class="single-info">
+                                    <h4 class="info-title">Dirección</h4>
+                                    <p>Blvd Los Agaves, Plaza Monte Real Local 02, <br> San José del Cabo,</p>
+                                </div>
+                                <!-- Single Info End -->
+                            </div>
+                            <div class="col-sm-6">
+                                <!-- Single Info Start -->
+                                <div class="single-info">
+                                    <h4 class="info-title">Llámanos</h4>
+                                    <p><a href="tell:+526242125556">+52 624 212 5556</a></p>
+                                    <!-- <p><a href="tell:+98712547859">+98712 547 859</a></p> -->
+                                </div>
+                                <!-- Single Info End -->
+                            </div>
+                            <div class="col-sm-6">
+                                <!-- Single Info Start -->
+                                <div class="single-info">
+                                    <h4 class="info-title">Correo</h4>
+                                    <p><a href="mailto:info@fridaysbeautyroom.com">info@fridaysbeautyroom.com</a></p>
+                                </div>
+                                <!-- Single Info End -->
+                            </div>
+                            <div class="col-sm-6">
+                                <!-- Single Info Start -->
+                                <div class="single-info">
+                                    <h4 class="info-title">Síguenos en nuestras redes sociales</h4>
+                                    <ul class="social">
+                                        <li><a target="_blank" href="https://www.facebook.com/FridaysBeautyRoom"><i class="fa fa-facebook-f"></i></a></li>
+                                        <li><a target="_blank" href="https://www.instagram.com/fridays_beautyroom/?fbclid=IwAR2FywYbv2oe54tQ8iMcgKbNKZL4ZEZSeiAmjiiw_EHLDo34sQ7XQgw_g30"><i class="fa fa-instagram"></i></a></li>
+                                    </ul>
+                                </div>
+                                <!-- Single Info End -->
+                            </div>
+                        </div>
+
                     </div>
-                    <!-- Single Brand End -->
-                    <!-- Single Brand Start -->
-                    <div class="swiper-slide single-brand">
-                        <img src="/assets/images/brand/brand-2.webp" height="107" alt="Brand">
-                    </div>
-                    <!-- Single Brand End -->
-                    <!-- Single Brand Start -->
-                    <div class="swiper-slide single-brand">
-                        <img src="/assets/images/brand/brand-3.webp" height="107" alt="Brand">
-                    </div>
-                    <!-- Single Brand End -->
-                    <!-- Single Brand Start -->
-                    <div class="swiper-slide single-brand">
-                        <img src="/assets/images/brand/brand-4.webp" height="107" alt="Brand">
-                    </div>
-                    <!-- Single Brand End -->
-                    <!-- Single Brand Start -->
-                    <div class="swiper-slide single-brand">
-                        <img src="/assets/images/brand/brand-5.webp" height="107" alt="Brand">
-                    </div>
-                    <!-- Single Brand End -->
+                    <!-- Contact Info End -->
                 </div>
             </div>
         </div>
-        <!-- Brand End -->
+        <!-- Contact Wrapper End -->
+
+        <!-- Contact Form Wrapper Start -->
+        <div class="contact-form-wrapper">
+            <div class="row flex-row-reverse justify-content-center">
+                <div class="col-lg-6 col-md-8 col-sm-10">
+                    <!-- Contact Form Image Start -->
+                    <div class="contact-form-image">
+                        <div class="image">
+                            <img src="assets/images/03.webp" width="506" height="527" alt="Choose">
+                        </div>
+                    </div>
+                    <!-- Contact Form Image End -->
+                </div>
+                <div class="col-lg-6">
+                    <!-- Contact Form Start -->
+                    <div class="contact-form">
+                        <h3 class="form-title">Escríbenos</h3>
+                        <form action="#">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <!-- Single Form Start -->
+                                    <div class="single-form">
+                                        <input type="text" placeholder="Nombre*">
+                                    </div>
+                                    <!-- Single Form End -->
+                                </div>
+                                <div class="col-md-6">
+                                    <!-- Single Form Start -->
+                                    <div class="single-form">
+                                        <input type="text" placeholder="Teléfono*">
+                                    </div>
+                                    <!-- Single Form End -->
+                                </div>
+                                <div class="col-md-6">
+                                    <!-- Single Form Start -->
+                                    <div class="single-form">
+                                        <input type="email" placeholder="Correo*">
+                                    </div>
+                                    <!-- Single Form End -->
+                                </div>
+                                <div class="col-md-12">
+                                    <!-- Single Form Start -->
+                                    <div class="single-form">
+                                        <textarea placeholder="Déjanos tu mensaje "></textarea>
+                                    </div>
+                                    <!-- Single Form End -->
+                                </div>
+                                <div class="col-md-12">
+                                    <!-- Single Form Start -->
+                                    <div class="btn-margin">
+                                        <button class="btn btn-primary btn-hover-dark">Enviar</button>
+                                    </div>
+                                    <!-- Single Form End -->
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <!-- Contact Form End -->
+                </div>
+            </div>
+        </div>
+        <!-- Contact Form Wrapper End -->
     </div>
 </div>
-<!-- Brand End -->
