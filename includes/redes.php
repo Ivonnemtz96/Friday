@@ -30,8 +30,8 @@
     right: 0;
     width: 150px;
     overflow: hidden;
-    background-color: #fff;
-    color: #faa292;
+    background-color: #25d366;
+    color: #FFF;
     border-radius: 2px 0 0 2px;
     z-index: 10;
     transition: all 0.5s ease-in-out;
@@ -39,7 +39,7 @@
 }
 
 .whats-float a span {
-    color: #faa292;
+    color: white;
     font-size: 15px;
     padding-top: 8px;
     padding-bottom: 10px;
@@ -50,7 +50,7 @@
 
 .whats-float i {
     font-size: 30px;
-    color: #faa292;
+    color: white;
     line-height: 30px;
     padding: 10px;
     transform: rotate(0deg);
@@ -76,8 +76,8 @@
     right: 0;
     width: 150px;
     overflow: hidden;
-    background-color: #fff;
-    color: #faa292;
+    background: linear-gradient(2deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+    color: #FFF;
     border-radius: 2px 0 0 2px;
     z-index: 10;
     transition: all 0.5s ease-in-out;
@@ -85,7 +85,7 @@
 }
 
 .insta-float a span {
-    color: #faa292;
+    color: white;
     font-size: 15px;
     padding-top: 8px;
     padding-bottom: 10px;
@@ -96,7 +96,7 @@
 
 .insta-float i {
     font-size: 30px;
-    color: #faa292;
+    color: white;
     line-height: 30px;
     padding: 10px;
     transform: rotate(0deg);
@@ -122,8 +122,8 @@
     right: 0;
     width: 150px;
     overflow: hidden;
-    background-color: #fff;
-    color: #faa292;
+    background-color: #3b5998;
+    color: #FFF;
     border-radius: 2px 0 0 2px;
     z-index: 10;
     transition: all 0.5s ease-in-out;
@@ -131,7 +131,7 @@
 }
 
 .fb-float a span {
-    color: #faa292;
+    color: white;
     font-size: 15px;
     padding-top: 8px;
     padding-bottom: 10px;
@@ -142,7 +142,7 @@
 
 .fb-float i {
     font-size: 30px;
-    color: #faa292;
+    color: white;
     line-height: 30px;
     padding: 10px;
     transform: rotate(0deg);
@@ -186,13 +186,13 @@
 </div>
 
 <div class="insta-float">
-    <a href="https://www.instagram.com/fridays_beautyroom/?fbclid=IwAR2FywYbv2oe54tQ8iMcgKbNKZL4ZEZSeiAmjiiw_EHLDo34sQ7XQgw_g30" target="_blank">
+    <a href="https://www.instagram.com/teisushicabo/?hl=es-la" target="_blank">
         <i class="fa fa-instagram"></i><span>Instagram<br><small>@fridays_beautyroom</small></span>
     </a>
 </div>
 
 <div class="fb-float">
-    <a href="https://www.facebook.com/FridaysBeautyRoom" target="_blank">
+    <a href="https://www.facebook.com/TeiSushiCabo" target="_blank">
         <i style="margin: 0px 0px 0px 5px;" class="fa fa-facebook-f"></i><span>Facebook<br><small>Friday's Beauty Room</small></span>
     </a>
 </div>
