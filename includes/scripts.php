@@ -23,5 +23,11 @@
   <script>
 $(window).load(function() {
   $("#container1").twentytwenty();
+  $("#resultado1").twentytwenty();
+  $("#resultado2").twentytwenty();
+  $("#resultado3").twentytwenty();
+  $("#resultado4").twentytwenty();
+  $("#resultado5").twentytwenty();
+  $("#resultado6").twentytwenty();
 });
   </script>

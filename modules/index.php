@@ -60,7 +60,7 @@
             <div class="col" data-aos="fade-up" data-aos-delay="200">
                 <!-- Single Features Start -->
                 <div class="single-feature text-center">
-                    <img src="/assets/images/citas.png?=1" style="width: 5rem;"  alt="feature">
+                    <img src="/assets/images/citas.png?=1" style="width: 5rem;" alt="feature">
                     <h4 class="title"><a href="#">Cita en línea</a></h4>
                     <p>
                         ¡Ahora ya puedes agendar tu cita en línea! <br>
@@ -75,7 +75,7 @@
             <div class="col active" data-aos="fade-up" data-aos-delay="400">
                 <!-- Single Features Start -->
                 <div class="single-feature text-center">
-                    <img src="/assets/images/ubicacion.png?=1"style="width: 5rem;" alt="feature">
+                    <img src="/assets/images/ubicacion.png?=1" style="width: 5rem;" alt="feature">
                     <h4 class="title"><a href="#">Ubicación</a></h4>
                     <p>
                         Estamos ubicados en Blvd Los Agaves, Plaza Monte Real, Local 02 en San José del Cabo. <br>
@@ -87,7 +87,7 @@
             <div class="col" data-aos="fade-up" data-aos-delay="600">
                 <!-- Single Features Start -->
                 <div class="single-feature text-center">
-                    <img src="/assets/images/pago.png?=1"style="width: 5rem;" alt="feature">
+                    <img src="/assets/images/pago.png?=1" style="width: 5rem;" alt="feature">
                     <h4 class="title"><a href="#">Métodos de Pago</a></h4>
                     <p>Tu comodidad es nuestra prioridad, por ello, aceptamos pagos en efectivo o por medio de tarjeta
                         de crédito o débito.</p>
@@ -278,8 +278,9 @@
                             <!-- Services Start -->
                             <div class="single-services text-center">
                                 <div class="services-image">
-                                    <a href="therapy-details.html"><img src="/assets/images/services/services-10.webp?=1"
-                                            width="233" height="233" alt="services"></a>
+                                    <a href="therapy-details.html"><img
+                                            src="/assets/images/services/services-10.webp?=1" width="233" height="233"
+                                            alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
                                 <div class="services-content">
@@ -309,8 +310,9 @@
                             <!-- Services Start -->
                             <div class="single-services text-center">
                                 <div class="services-image">
-                                    <a href="therapy-details.html"><img src="/assets/images/services/services-11.webp?=1"
-                                            width="233" height="233" alt="services"></a>
+                                    <a href="therapy-details.html"><img
+                                            src="/assets/images/services/services-11.webp?=1" width="233" height="233"
+                                            alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
                                 <div class="services-content">
@@ -478,11 +480,12 @@
 <!-- Spa Pricing End -->
 
 <!-- Call to Action Start -->
-<div class="section call-to-action-serction" style="background-image: url(/assets/images/patan-bg-2.webp);">
+<div class="section call-to-action-serction"
+    style="background-image: url(/assets/images/patan-bg-2.webp);margin-bottom:7rem;">
 
     <!-- Call to Action bg Start -->
     <div class="call-to-action-bg"
-        style="background-image: url(/assets/images/cta-bg2.webp); background-position: top; background-size: cover;">
+        style="background-image: url(/assets/images/cta-bg2.webp?=1); background-position: center; background-size: cover;">
     </div>
     <!-- Call to Action bg End -->
 
@@ -520,13 +523,59 @@
 </div>
 <!-- Call to Action End -->
 
+
+<!-- Resultados -->
+<div class="section section-padding testimonial-section" id="resultados" style="margin-bottom: 3rem;">
+    <div class="container">
+        <div class="section-title text-center">
+            <h6 class="sub-title">¡Te encantarán los resultados!</h6>
+            <h2 class="title">Descubre la magia de la nanoplastia</h2>
+            <h2>¡Agenda tu cita ahora!</h2>
+        </div>
+        <div class="row">
+            <div class="col-6 col-md-3">
+                <div class="contact-image " id="resultado1">
+                    <img src="assets/images/04.webp" width="541" height="520" alt="Contact">
+                    <img src="assets/images/05.webp" width="541" height="520" alt="Contact">
+                </div>
+            </div>
+            <div class="col-6 col-md-3">
+                <div class="contact-image " id="resultado2">
+                    <img src="assets/images/06.webp" width="541" height="520" alt="Contact">
+                    <img src="assets/images/07.webp" width="541" height="520" alt="Contact">
+                </div>
+            </div>
+            <div class="col-6 col-md-3">
+                <div class="contact-image " id="resultado3">
+                    <img src="assets/images/08.webp" width="541" height="520" alt="Contact">
+                    <img src="assets/images/09.webp" width="541" height="520" alt="Contact">
+                </div>
+            </div>
+            <div class="col-6 col-md-3">
+                <div class="contact-image " id="resultado4">
+                    <img src="assets/images/10.webp" width="541" height="520" alt="Contact">
+                    <img src="assets/images/11.webp" width="541" height="520" alt="Contact">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Testimonial End -->
+
+
+
+
+
+
+
+
+
+
+
 <!-- Testimonial Start -->
 <div class="section section-padding testimonial-section" style="margin-bottom: 3rem;">
-
     <!-- <img class="shape-1 movebounce-03" src="/assets/images/shape/shape-14.webp" width="212" height="191" alt="Shape"> -->
-
     <div class="container">
-
         <!-- Section Title Start -->
         <div class="section-title text-center">
             <h6 class="sub-title">Opiniones</h6>
@@ -593,8 +642,7 @@
                             <!-- Single Testimonial Start -->
                             <div class="swiper-slide swiper-slide single-testimonial">
                                 <div class="testimonial-author">
-                                    <img src="/assets/images/author/3.webp?=1" width="206" height="206"
-                                        alt="Author">
+                                    <img src="/assets/images/author/3.webp?=1" width="206" height="206" alt="Author">
                                     <div class="author-quote">
                                         <i class="icofont-quote-right"></i>
                                     </div>
@@ -614,8 +662,7 @@
                             <!-- Single Testimonial Start -->
                             <div class="swiper-slide single-testimonial">
                                 <div class="testimonial-author">
-                                    <img src="/assets/images/author/4.webp?=1" width="206" height="206"
-                                        alt="Author">
+                                    <img src="/assets/images/author/4.webp?=1" width="206" height="206" alt="Author">
                                     <div class="author-quote">
                                         <i class="icofont-quote-right"></i>
                                     </div>
@@ -633,18 +680,14 @@
                                 </div>
                             </div>
                             <!-- Single Testimonial End -->
-
                         </div>
                     </div>
-
                 </div>
             </div>
-
             <div class="swiper-button-next"></div>
             <div class="swiper-button-prev"></div>
         </div>
         <!-- Testimonial Wrapper End -->
-
     </div>
 </div>
 <!-- Testimonial End -->
@@ -674,7 +717,8 @@
                                 <div class="single-info">
                                     <h4 class="info-title">Dirección</h4>
                                     <p>Blvd Los Agaves, Plaza Monte Real Local 02, <br> San José del Cabo,</p>
-                                    <button onclick="window.open('https://goo.gl/maps/Ac6jyVPGtpqhtLvt8','_blank')" class="btn btn-primary btn-hover-dark mt-3">Ver mapa</button>
+                                    <button onclick="window.open('https://goo.gl/maps/Ac6jyVPGtpqhtLvt8','_blank')"
+                                        class="btn btn-primary btn-hover-dark mt-3">Ver mapa</button>
                                 </div>
                                 <!-- Single Info End -->
                             </div>
