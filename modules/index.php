@@ -78,10 +78,9 @@
                     <img src="/assets/images/features/icon-2.webp?=1" height="156" alt="feature">
                     <h4 class="title"><a href="#">Ubicación</a></h4>
                     <p>
-                    Estamos ubicados en Blvd Los Agaves, Plaza Monte Real, Local 02 en San José del Cabo. <br>
+                        Estamos ubicados en Blvd Los Agaves, Plaza Monte Real, Local 02 en San José del Cabo. <br>
                     </p>
-                    <a href="https://goo.gl/maps/EQ4Y27cNwmRCnFgn8"
-                        target="_blank" class="more">Ver ubicación</a>
+                    <a href="https://goo.gl/maps/EQ4Y27cNwmRCnFgn8" target="_blank" class="more">Ver ubicación</a>
                 </div>
                 <!-- Single Features End -->
             </div>
@@ -90,7 +89,8 @@
                 <div class="single-feature text-center">
                     <img src="/assets/images/features/icon-3.webp?=1" height="156" alt="feature">
                     <h4 class="title"><a href="#">Métodos de Pago</a></h4>
-                    <p>Tu comodidad es nuestra prioridad, por ello, aceptamos pagos en efectivo o por medio de tarjeta de crédito o débito.</p>
+                    <p>Tu comodidad es nuestra prioridad, por ello, aceptamos pagos en efectivo o por medio de tarjeta
+                        de crédito o débito.</p>
                     <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."
                         target="_blank" class="more">Agendar ahora</a>
                 </div>
@@ -121,15 +121,17 @@
                     <div class="about-content" data-aos="fade-up" data-aos-delay="200">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <h6 class="sub-title">Todos los días pueden ser viernes</h6>
+                            <h6 class="sub-title">Nanoplastia</h6>
                             <h2 class="title">Cabello impecable <br> y libre de frizz<img class="shape"
                                     src="/assets/images/shape/shape-15.webp" alt="Shape"></h2>
                         </div>
                         <!-- Section Title End -->
-                        <p class="text">We have more than 20 years of Exprience with 100% client Satisfaction</p>
-                        <p>Peerly is the best Spa therapy is the best way of Spa cases are some perfectly simple and
-                            easy to distinguish. In a free hour,power can help you for a relaxation and fresh mind with
-                            great enjoy take an example, which of us ever undertakes laborious physical satisfaction</p>
+                        <p>
+                            La Nanoplastia reconstruye el cabello, quita el encrespamiento, hidrata y alisa de forma
+                            natural por un periodo de tiempo prolongado (4 o hasta más de 6 meses según tu crecimiento),
+                            y es progresivo, pasado el tiempo, el cabello volverá a su estado original de una forma
+                            progresiva y natural.
+                        </p>
                         <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."
                             target="_blank" class="btn btn-primary btn-hover-dark">Agendar cita</a>
                     </div>
@@ -155,8 +157,8 @@
             <!-- Section Title Start -->
             <div class="section-title text-center">
                 <h6 class="sub-title">Servicios</h6>
-                <h2 class="title">Déjate consentir</h2>
-                <p>El lugar donde tus sueños de belleza se hacen realidad.</p>
+                <h2 class="title">Déjate consentir <br> Lo mereces</h2>
+                <!-- <p>Lo mereces</p> -->
             </div>
             <!-- Section Title End -->
 
@@ -197,27 +199,7 @@
                                     <!-- <p>Face Scrub Spa is the best your health and refresh</p> -->
                                 </div>
                             </div>
-                            <!-- Services End -->
                         </div>
-                        <div class="swiper-slide">
-                            <!-- Services Start -->
-                            <div class="single-services text-center">
-                                <div class="services-image">
-                                    <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."
-                                        target="_blank"><img src="/assets/images/services/services-3.webp?=1"
-                                            width="233" height="233" alt="services"></a>
-                                    <!-- <span class="price"> $75</span> -->
-                                </div>
-                                <div class="services-content">
-                                    <h4 class="title"><a
-                                            href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."
-                                            target="_blank">Maquillaje</a></h4>
-                                    <!-- <p>Oil Massage Spa is the best your health and refresh</p> -->
-                                </div>
-                            </div>
-                            <!-- Services End -->
-                        </div>
-
 
                         <div class="swiper-slide">
                             <!-- Services Start -->
@@ -235,7 +217,6 @@
                                     <!-- <p>Oil Massage Spa is the best your health and refresh</p> -->
                                 </div>
                             </div>
-                            <!-- Services End -->
                         </div>
 
                         <div class="swiper-slide">
@@ -257,7 +238,27 @@
                             <!-- Services End -->
                         </div>
 
-                        <div hidden class="swiper-slide">
+
+                        <div class="swiper-slide">
+                            <!-- Services Start -->
+                            <div class="single-services text-center">
+                                <div class="services-image">
+                                    <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."
+                                        target="_blank"><img src="/assets/images/services/services-3.webp?=1"
+                                            width="233" height="233" alt="services"></a>
+                                    <!-- <span class="price"> $75</span> -->
+                                </div>
+                                <div class="services-content">
+                                    <h4 class="title"><a
+                                            href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."
+                                            target="_blank">Uñas acrílicas</a></h4>
+                                    <!-- <p>Oil Massage Spa is the best your health and refresh</p> -->
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="swiper-slide">
                             <!-- Services Start -->
                             <div class="single-services text-center">
                                 <div class="services-image">
@@ -266,12 +267,61 @@
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
                                 <div class="services-content">
-                                    <h4 class="title"><a href="therapy-details.html">Tratamiento Marroquí</a></h4>
-                                    <p>Oil Massage Spa is the best your health and refresh</p>
+                                    <h4 class="title"><a href="therapy-details.html">Efectos de Color</a></h4>
+                                    <!-- <p>Oil Massage Spa is the best your health and refresh</p> -->
                                 </div>
                             </div>
-                            <!-- Services End -->
                         </div>
+
+
+                        <div class="swiper-slide">
+                            <!-- Services Start -->
+                            <div class="single-services text-center">
+                                <div class="services-image">
+                                    <a href="therapy-details.html"><img src="/assets/images/services/services-3.webp?=1"
+                                            width="233" height="233" alt="services"></a>
+                                    <!-- <span class="price"> $75</span> -->
+                                </div>
+                                <div class="services-content">
+                                    <h4 class="title"><a href="therapy-details.html">Tintes</a></h4>
+                                    <!-- <p>Oil Massage Spa is the best your health and refresh</p> -->
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="swiper-slide">
+                            <!-- Services Start -->
+                            <div class="single-services text-center">
+                                <div class="services-image">
+                                    <a href="therapy-details.html"><img src="/assets/images/services/services-3.webp?=1"
+                                            width="233" height="233" alt="services"></a>
+                                    <!-- <span class="price"> $75</span> -->
+                                </div>
+                                <div class="services-content">
+                                    <h4 class="title"><a href="therapy-details.html">Maquillaje</a></h4>
+                                    <!-- <p>Oil Massage Spa is the best your health and refresh</p> -->
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <!-- Services Start -->
+                            <div class="single-services text-center">
+                                <div class="services-image">
+                                    <a href="therapy-details.html"><img src="/assets/images/services/services-3.webp?=1"
+                                            width="233" height="233" alt="services"></a>
+                                    <!-- <span class="price"> $75</span> -->
+                                </div>
+                                <div class="services-content">
+                                    <h4 class="title"><a href="therapy-details.html">Peinado</a></h4>
+                                    <!-- <p>Oil Massage Spa is the best your health and refresh</p> -->
+                                </div>
+                            </div>
+                        </div>
+
+
+
 
                     </div>
                     <div class="swiper-pagination"></div>
@@ -297,7 +347,7 @@
 
         <!-- Section Title Start -->
         <div class="section-title text-center">
-            <h6 class="sub-title">Cabello sin enredos</h6>
+            <h6 class="sub-title">Conócenos</h6>
             <h2 class="title">¿Qué nos hace diferentes? </h2>
             <p>
                 Descubre por qué somos la elección perfecta.
@@ -312,19 +362,19 @@
                     <!-- Single Choose Start -->
                     <div class="single-choose" data-aos="fade-up" data-aos-delay="100">
                         <h4 class="title">Experiencia y profesionalismo</h4>
-                        <p>Equipo altamente capacitado y con amplia experiencia.</p>
+                        <p>Nuestro equipo se esfuerza constantemente para siempre tener las últimas actualizaciones en su área, aportando todo su conocimiento, amor y experiencia en lo que hacen.</p>
                     </div>
                     <!-- Single Choose End -->
                     <!-- Single Choose Start -->
                     <div class="single-choose" data-aos="fade-up" data-aos-delay="200">
                         <h4 class="title">Atención personalizada</h4>
-                        <p>Nos enfocamos en brindar un trato personalizado a cada cliente.</p>
+                        <p>Nos enfocamos en brindarte un servicio.</p>
                     </div>
                     <!-- Single Choose End -->
                     <!-- Single Choose Start -->
                     <div class="single-choose" data-aos="fade-up" data-aos-delay="300">
                         <h4 class="title">Variedad de servicios</h4>
-                        <p>Ofrecemos desde Nanoplastia hasta manicure y pedicure con jelly</p>
+                        <p>Contamos con lo necesario para lucir siempre bella, con tratamientos capilares hasta servicios de manicure y pedicure.</p>
                     </div>
                     <!-- Single Choose End -->
                 </div>
@@ -348,14 +398,13 @@
                     <!-- Single Choose Start -->
                     <div class="single-choose" data-aos="fade-up" data-aos-delay="200">
                         <h4 class="title">Productos de alta calidad</h4>
-                        <p>Productos de alta calidad, que garantizan resultados excepcionales y cuidado óptimo para el
-                            cabello, la piel y las uñas.</p>
+                        <p>PUn buen trabajo va de la mano de excelentes productos, por ello, estamos seguros que podemos garantizar resultados excepcionales.</p>
                     </div>
                     <!-- Single Choose End -->
                     <!-- Single Choose Start -->
                     <div class="single-choose" data-aos="fade-up" data-aos-delay="300">
                         <h4 class="title">Horarios perfectos</h4>
-                        <p>Abrimos de lunes a sábado desde las 9:00 hasta las 20:00</p>
+                        <p>Encuéntranos de Lunes a Sábado de 9:00am a 8:00pm.</p>
                     </div>
                     <!-- Single Choose End -->
                 </div>
@@ -384,10 +433,9 @@
                                     src="/assets/images/shape/shape-15.webp" alt="Shape"></h2>
                         </div>
                         <!-- Section Title End -->
-                        <p class="text">Modern & Latest Spa Therapy is always available for our valuable clients </p>
+                        <p class="text">Consiéntete con nosotros para verte y sentirte mejor. </p>
                         <p>
-                            Nuestro objetivo es hacer que nuestros clientes se sientan hermosos, confiados y satisfechos
-                            con nuestros servicios.
+                        Si deseas agendar una cita, no dudes en contactarnos.
                         </p>
                         <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."
                             target="_blank" class="btn btn-primary btn-hover-dark">Agendar cita</a>
