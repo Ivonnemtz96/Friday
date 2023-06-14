@@ -60,7 +60,7 @@
             <div class="col" data-aos="fade-up" data-aos-delay="200">
                 <!-- Single Features Start -->
                 <div class="single-feature text-center">
-                    <img src="/assets/images/features/icon-1.webp?=1" height="156" alt="feature">
+                    <img src="/assets/images/citas.png?=1" style="width: 5rem;"  alt="feature">
                     <h4 class="title"><a href="#">Cita en línea</a></h4>
                     <p>
                         ¡Ahora ya puedes agendar tu cita en línea! <br>
@@ -75,7 +75,7 @@
             <div class="col active" data-aos="fade-up" data-aos-delay="400">
                 <!-- Single Features Start -->
                 <div class="single-feature text-center">
-                    <img src="/assets/images/features/icon-2.webp?=1" height="156" alt="feature">
+                    <img src="/assets/images/ubicacion.png?=1"style="width: 5rem;" alt="feature">
                     <h4 class="title"><a href="#">Ubicación</a></h4>
                     <p>
                         Estamos ubicados en Blvd Los Agaves, Plaza Monte Real, Local 02 en San José del Cabo. <br>
@@ -87,7 +87,7 @@
             <div class="col" data-aos="fade-up" data-aos-delay="600">
                 <!-- Single Features Start -->
                 <div class="single-feature text-center">
-                    <img src="/assets/images/features/icon-3.webp?=1" height="156" alt="feature">
+                    <img src="/assets/images/pago.png?=1"style="width: 5rem;" alt="feature">
                     <h4 class="title"><a href="#">Métodos de Pago</a></h4>
                     <p>Tu comodidad es nuestra prioridad, por ello, aceptamos pagos en efectivo o por medio de tarjeta
                         de crédito o débito.</p>
@@ -150,9 +150,9 @@
     <div class="services-wrapper">
         <!-- Services Main Content Start -->
         <div class="services-main-content" data-aos="fade-up" data-aos-delay="200">
-            <img class="shape-1 movebounce-02" src="/assets/images/shape/shape-6.webp" alt="Shape">
+            <!-- <img class="shape-1 movebounce-02" src="/assets/images/shape/shape-6.webp" alt="Shape">
             <img class="shape-2 movebounce-03" src="/assets/images/shape/shape-7.webp" alt="Shape">
-            <img class="shape-3" src="/assets/images/shape/shape-8.webp" alt="Shape">
+            <img class="shape-3" src="/assets/images/shape/shape-8.webp" alt="Shape"> -->
 
             <!-- Section Title Start -->
             <div class="section-title text-center">
@@ -188,7 +188,7 @@
                             <div class="single-services text-center">
                                 <div class="services-image">
                                     <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."
-                                        target="_blank"><img src="/assets/images/services/services-2.webp?=1"
+                                        target="_blank"><img src="/assets/images/services/services-2.webp?=2"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $64</span> -->
                                 </div>
@@ -206,7 +206,7 @@
                             <div class="single-services text-center">
                                 <div class="services-image">
                                     <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."
-                                        target="_blank"><img src="/assets/images/services/services-5.webp?=1"
+                                        target="_blank"><img src="/assets/images/services/services-5.webp?=2"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
@@ -224,7 +224,7 @@
                             <div class="single-services text-center">
                                 <div class="services-image">
                                     <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."
-                                        target="_blank"><img src="/assets/images/services/services-4.webp?=1"
+                                        target="_blank"><img src="/assets/images/services/services-6.webp?=1"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
@@ -244,7 +244,7 @@
                             <div class="single-services text-center">
                                 <div class="services-image">
                                     <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."
-                                        target="_blank"><img src="/assets/images/services/services-3.webp?=1"
+                                        target="_blank"><img src="/assets/images/services/services-7.webp?=1"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
@@ -262,7 +262,7 @@
                             <!-- Services Start -->
                             <div class="single-services text-center">
                                 <div class="services-image">
-                                    <a href="therapy-details.html"><img src="/assets/images/services/services-3.webp?=1"
+                                    <a href="therapy-details.html"><img src="/assets/images/services/services-9.webp?=1"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
@@ -278,7 +278,7 @@
                             <!-- Services Start -->
                             <div class="single-services text-center">
                                 <div class="services-image">
-                                    <a href="therapy-details.html"><img src="/assets/images/services/services-3.webp?=1"
+                                    <a href="therapy-details.html"><img src="/assets/images/services/services-10.webp?=1"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
@@ -309,7 +309,7 @@
                             <!-- Services Start -->
                             <div class="single-services text-center">
                                 <div class="services-image">
-                                    <a href="therapy-details.html"><img src="/assets/images/services/services-3.webp?=1"
+                                    <a href="therapy-details.html"><img src="/assets/images/services/services-11.webp?=1"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
@@ -362,7 +362,8 @@
                     <!-- Single Choose Start -->
                     <div class="single-choose" data-aos="fade-up" data-aos-delay="100">
                         <h4 class="title">Experiencia y profesionalismo</h4>
-                        <p>Nuestro equipo se esfuerza constantemente para siempre tener las últimas actualizaciones en su área, aportando todo su conocimiento, amor y experiencia en lo que hacen.</p>
+                        <p>Nuestro equipo se esfuerza constantemente para siempre tener las últimas actualizaciones en
+                            su área, aportando todo su conocimiento, amor y experiencia en lo que hacen.</p>
                     </div>
                     <!-- Single Choose End -->
                     <!-- Single Choose Start -->
@@ -374,7 +375,8 @@
                     <!-- Single Choose Start -->
                     <div class="single-choose" data-aos="fade-up" data-aos-delay="300">
                         <h4 class="title">Variedad de servicios</h4>
-                        <p>Contamos con lo necesario para lucir siempre bella, con tratamientos capilares hasta servicios de manicure y pedicure.</p>
+                        <p>Contamos con lo necesario para lucir siempre bella, con tratamientos capilares hasta
+                            servicios de manicure y pedicure.</p>
                     </div>
                     <!-- Single Choose End -->
                 </div>
@@ -382,7 +384,7 @@
                     <!-- Choose Image Start -->
                     <div class="choose-image" data-aos="fade-up" data-aos-delay="200">
                         <div class="image">
-                            <img src="/assets/images/choose.webp?=1" width="488" height="499" alt="Choose">
+                            <img src="/assets/images/choose.webp?=2" width="488" height="499" alt="Choose">
                         </div>
                     </div>
                     <!-- Choose Image End -->
@@ -398,7 +400,8 @@
                     <!-- Single Choose Start -->
                     <div class="single-choose" data-aos="fade-up" data-aos-delay="200">
                         <h4 class="title">Productos de alta calidad</h4>
-                        <p>PUn buen trabajo va de la mano de excelentes productos, por ello, estamos seguros que podemos garantizar resultados excepcionales.</p>
+                        <p>Un buen trabajo va de la mano de excelentes productos, por ello, estamos seguros que podemos
+                            garantizar resultados excepcionales.</p>
                     </div>
                     <!-- Single Choose End -->
                     <!-- Single Choose Start -->
@@ -435,7 +438,7 @@
                         <!-- Section Title End -->
                         <p class="text">Consiéntete con nosotros para verte y sentirte mejor. </p>
                         <p>
-                        Si deseas agendar una cita, no dudes en contactarnos.
+                            Si deseas agendar una cita, no dudes en contactarnos.
                         </p>
                         <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."
                             target="_blank" class="btn btn-primary btn-hover-dark">Agendar cita</a>
@@ -495,12 +498,12 @@
         <div class="call-to-action-wrapper text-center" data-aos="fade-up" data-aos-delay="200">
             <!-- Section Title Start -->
             <div class="section-title text-center">
-                <h6 class="sub-title">Promociones especiales</h6>
-                <h2 class="title">Cabello suave con nanoplastia</h2>
-                <p>El secreto para un cabello suave y manejable</p>
+                <h6 class="sub-title">No te lo pierdas...</h6>
+                <h2 class="title">¿Sabes la promoción de este mes?</h2>
+                <h2>¡Pregunta por ella!</h2>
             </div>
             <!-- Section Title End -->
-            <h4 class="discount">$850 <strong>* Con cita solo 9:00 am *</strong></h4>
+            <!-- <h4 class="discount">$850 <strong>* Con cita solo 9:00 am *</strong></h4> -->
             <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita." target="_blank"
                 class="btn btn-primary btn-hover-dark">Whatsapp</a>
         </div>
@@ -542,7 +545,7 @@
                             <!-- Single Testimonial Start -->
                             <div class="swiper-slide single-testimonial">
                                 <div class="testimonial-author">
-                                    <img src="/assets/images/author/author-1.webp?=1" width="206" height="206"
+                                    <img src="/assets/images/author/author-2.webp?=2" width="206" height="206"
                                         alt="Author">
                                     <div class="author-quote">
                                         <i class="icofont-quote-right"></i>
@@ -590,7 +593,7 @@
                             <!-- Single Testimonial Start -->
                             <div class="swiper-slide swiper-slide single-testimonial">
                                 <div class="testimonial-author">
-                                    <img src="/assets/images/author/author-2.webp?=1" width="206" height="206"
+                                    <img src="/assets/images/author/3.webp?=1" width="206" height="206"
                                         alt="Author">
                                     <div class="author-quote">
                                         <i class="icofont-quote-right"></i>
@@ -611,7 +614,7 @@
                             <!-- Single Testimonial Start -->
                             <div class="swiper-slide single-testimonial">
                                 <div class="testimonial-author">
-                                    <img src="/assets/images/author/author-1.webp?=1" width="206" height="206"
+                                    <img src="/assets/images/author/4.webp?=1" width="206" height="206"
                                         alt="Author">
                                     <div class="author-quote">
                                         <i class="icofont-quote-right"></i>
@@ -664,14 +667,14 @@
                     <!-- Contact Info Start -->
                     <div class="contact-info">
                         <h3 class="title">Información de contacto</h3>
-                        <p class="text">¡No esperes más para consentirte!</p>
-
+                        <p class="text">¡No esperes más!</p>
                         <div class="row">
                             <div class="col-sm-6">
                                 <!-- Single Info Start -->
                                 <div class="single-info">
                                     <h4 class="info-title">Dirección</h4>
                                     <p>Blvd Los Agaves, Plaza Monte Real Local 02, <br> San José del Cabo,</p>
+                                    <button onclick="window.open('https://goo.gl/maps/Ac6jyVPGtpqhtLvt8','_blank')" class="btn btn-primary btn-hover-dark mt-3">Ver mapa</button>
                                 </div>
                                 <!-- Single Info End -->
                             </div>
@@ -719,13 +722,10 @@
         <div class="contact-form-wrapper">
             <div class="row flex-row-reverse justify-content-center">
                 <div class="col-lg-6 col-md-8 col-sm-10">
-                    <!-- Contact Form Image Start -->
-                    <div class="contact-form-image">
-                        <div class="image">
-                            <img src="assets/images/03.webp" width="506" height="527" alt="Choose">
-                        </div>
-                    </div>
-                    <!-- Contact Form Image End -->
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2060.059906876428!2d-109.71705490510463!3d23.074774319197388!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af5a8921359119%3A0xc614cd5741511979!2sFriday&#39;s%20Beauty%20Room!5e0!3m2!1ses-419!2smx!4v1686760084084!5m2!1ses-419!2smx"
+                        width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
                 <div class="col-lg-6">
                     <!-- Contact Form Start -->
@@ -750,7 +750,7 @@
                                 <div class="col-md-6">
                                     <!-- Single Form Start -->
                                     <div class="single-form">
-                                        <input type="email" placeholder="Correo*">
+                                        <input type="email" placeholder="Tema">
                                     </div>
                                     <!-- Single Form End -->
                                 </div>
