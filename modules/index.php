@@ -104,7 +104,6 @@
 
 <!-- About Start -->
 <div class="section section-padding-02 about-section" id="nosotros">
-
     <div class="container">
         <!-- About Wrapper Start -->
         <div class="about-wrapper">
@@ -127,10 +126,11 @@
                         </div>
                         <!-- Section Title End -->
                         <p>
-                            La Nanoplastia reconstruye el cabello, quita el encrespamiento, hidrata y alisa de forma
-                            natural por un periodo de tiempo prolongado (4 o hasta más de 6 meses según tu crecimiento),
-                            y es progresivo, pasado el tiempo, el cabello volverá a su estado original de una forma
-                            progresiva y natural.
+                            La Nanoplastía nos ofrece múltiples beneficios como reconstruir el cabello, quitar el
+                            encrespamiento, hidratarlo y alisarlo de forma natural por un periodo de tiempo prolongado
+                            que puede durar de 4 o hasta más de 6 meses según los cuidados y el crecimiento de tu
+                            cabello, también es progresivo, una vez pasado el tiempo el cabello volverá a su estado
+                            original de una forma natural.
                         </p>
                         <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."
                             target="_blank" class="btn btn-primary btn-hover-dark">Agendar cita</a>
@@ -157,7 +157,8 @@
             <!-- Section Title Start -->
             <div class="section-title text-center">
                 <h6 class="sub-title">Servicios</h6>
-                <h2 class="title">Déjate consentir <br> Lo mereces</h2>
+                <h2 class="title">Déjate consentir</h2>
+                <h6 class="sub-title">Lo mereces</h6>
                 <!-- <p>Lo mereces</p> -->
             </div>
             <!-- Section Title End -->

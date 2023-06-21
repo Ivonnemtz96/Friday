@@ -228,7 +228,7 @@ var swiper = new Swiper('.services-active .swiper-container', {
     },
     breakpoints: {
         0: {
-            slidesPerView: 2,
+            slidesPerView: 1,
             spaceBetween: 20,
         },
         576: {
@@ -244,9 +244,9 @@ var swiper = new Swiper('.services-active .swiper-container', {
             slidesPerView: 3,
         }
     },
-    // autoplay: {
-    //     delay: 8000,
-    // },
+    autoplay: {
+        delay: 8000,
+    },
 });
 
 
