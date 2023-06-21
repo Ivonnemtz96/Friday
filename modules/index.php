@@ -171,7 +171,7 @@
                             <div class="single-services text-center">
                                 <div class="services-image">
                                     <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."
-                                        target="_blank"><img src="/assets/images/services/services-1.webp?=1"
+                                        target="_blank"><img src="/assets/images/services/services-1.webp?=2"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
@@ -189,7 +189,7 @@
                             <div class="single-services text-center">
                                 <div class="services-image">
                                     <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."
-                                        target="_blank"><img src="/assets/images/services/services-2.webp?=2"
+                                        target="_blank"><img src="/assets/images/services/services-2.webp?=3"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $64</span> -->
                                 </div>
@@ -207,7 +207,7 @@
                             <div class="single-services text-center">
                                 <div class="services-image">
                                     <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."
-                                        target="_blank"><img src="/assets/images/services/services-5.webp?=2"
+                                        target="_blank"><img src="/assets/images/services/services-5.webp?=3"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
@@ -225,7 +225,7 @@
                             <div class="single-services text-center">
                                 <div class="services-image">
                                     <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."
-                                        target="_blank"><img src="/assets/images/services/services-6.webp?=1"
+                                        target="_blank"><img src="/assets/images/services/services-6.webp?=3"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
@@ -245,7 +245,7 @@
                             <div class="single-services text-center">
                                 <div class="services-image">
                                     <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."
-                                        target="_blank"><img src="/assets/images/services/services-7.webp?=1"
+                                        target="_blank"><img src="/assets/images/services/services-7.webp?=2"
                                             width="233" height="233" alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
@@ -263,29 +263,16 @@
                             <!-- Services Start -->
                             <div class="single-services text-center">
                                 <div class="services-image">
-                                    <a href="therapy-details.html"><img src="/assets/images/services/services-9.webp?=1"
-                                            width="233" height="233" alt="services"></a>
-                                    <!-- <span class="price"> $75</span> -->
-                                </div>
-                                <div class="services-content">
-                                    <h4 class="title"><a href="therapy-details.html">Efectos de Color</a></h4>
-                                    <!-- <p>Oil Massage Spa is the best your health and refresh</p> -->
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div class="swiper-slide">
-                            <!-- Services Start -->
-                            <div class="single-services text-center">
-                                <div class="services-image">
-                                    <a href="therapy-details.html"><img
-                                            src="/assets/images/services/services-10.webp?=1" width="233" height="233"
+                                    <a
+                                        href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."><img
+                                            src="/assets/images/services/services-9.webp?=2" width="233" height="233"
                                             alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
                                 <div class="services-content">
-                                    <h4 class="title"><a href="therapy-details.html">Tintes</a></h4>
+                                    <h4 class="title"><a
+                                            href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita.">Efectos
+                                            de Color</a></h4>
                                     <!-- <p>Oil Massage Spa is the best your health and refresh</p> -->
                                 </div>
                             </div>
@@ -296,28 +283,55 @@
                             <!-- Services Start -->
                             <div class="single-services text-center">
                                 <div class="services-image">
-                                    <a href="therapy-details.html"><img src="/assets/images/services/services-3.webp?=1"
-                                            width="233" height="233" alt="services"></a>
-                                    <!-- <span class="price"> $75</span> -->
-                                </div>
-                                <div class="services-content">
-                                    <h4 class="title"><a href="therapy-details.html">Maquillaje</a></h4>
-                                    <!-- <p>Oil Massage Spa is the best your health and refresh</p> -->
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <!-- Services Start -->
-                            <div class="single-services text-center">
-                                <div class="services-image">
-                                    <a href="therapy-details.html"><img
-                                            src="/assets/images/services/services-11.webp?=1" width="233" height="233"
+                                    <a
+                                        href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."><img
+                                            src="/assets/images/services/services-10.webp?=2" width="233" height="233"
                                             alt="services"></a>
                                     <!-- <span class="price"> $75</span> -->
                                 </div>
                                 <div class="services-content">
-                                    <h4 class="title"><a href="therapy-details.html">Peinado</a></h4>
+                                    <h4 class="title"><a
+                                            href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita.">Tintes</a>
+                                    </h4>
+                                    <!-- <p>Oil Massage Spa is the best your health and refresh</p> -->
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="swiper-slide">
+                            <!-- Services Start -->
+                            <div class="single-services text-center">
+                                <div class="services-image">
+                                    <a
+                                        href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."><img
+                                            src="/assets/images/services/services-3.webp?=2" width="233" height="233"
+                                            alt="services"></a>
+                                    <!-- <span class="price"> $75</span> -->
+                                </div>
+                                <div class="services-content">
+                                    <h4 class="title"><a
+                                            href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita.">Maquillaje</a>
+                                    </h4>
+                                    <!-- <p>Oil Massage Spa is the best your health and refresh</p> -->
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <!-- Services Start -->
+                            <div class="single-services text-center">
+                                <div class="services-image">
+                                    <a
+                                        href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."><img
+                                            src="/assets/images/services/services-11.webp?=2" width="233" height="233"
+                                            alt="services"></a>
+                                    <!-- <span class="price"> $75</span> -->
+                                </div>
+                                <div class="services-content">
+                                    <h4 class="title"><a
+                                            href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita.">Peinado</a>
+                                    </h4>
                                     <!-- <p>Oil Massage Spa is the best your health and refresh</p> -->
                                 </div>
                             </div>
@@ -372,14 +386,17 @@
                     <!-- Single Choose Start -->
                     <div class="single-choose" data-aos="fade-up" data-aos-delay="200">
                         <h4 class="title">Atención personalizada</h4>
-                        <p>Nos enfocamos en brindarte un servicio.</p>
+                        <p>Nos enfocamos en brindarte un servicio amable y audaz, ofreciendo un espacio seguro para
+                            relajarte y disfrutar, nosotros nos encargamos del resto.</p>
                     </div>
                     <!-- Single Choose End -->
                     <!-- Single Choose Start -->
                     <div class="single-choose" data-aos="fade-up" data-aos-delay="300">
                         <h4 class="title">Variedad de servicios</h4>
-                        <p>Contamos con lo necesario para lucir siempre bella, con tratamientos capilares hasta
-                            servicios de manicure y pedicure.</p>
+                        <p>
+                            Tenemos lo necesario para resaltar tu belleza, ¡no dudes en probar todos los servicios
+                            disponibles!
+                        </p>
                     </div>
                     <!-- Single Choose End -->
                 </div>
@@ -396,15 +413,19 @@
                     <!-- Single Choose Start -->
                     <div class="single-choose" data-aos="fade-up" data-aos-delay="100">
                         <h4 class="title">Resultados excepcionales</h4>
-                        <p>Trabajamos con precisión y dedicación para asegurarnos de que nuestros clientes estén
-                            satisfechos con los resultados finales.</p>
+                        <p>
+                            Trabajamos con precisión y dedicación para asegurarnos que nuestros clientes estén
+                            satisfechos con los resultados finales.
+                        </p>
                     </div>
                     <!-- Single Choose End -->
                     <!-- Single Choose Start -->
                     <div class="single-choose" data-aos="fade-up" data-aos-delay="200">
                         <h4 class="title">Productos de alta calidad</h4>
-                        <p>Un buen trabajo va de la mano de excelentes productos, por ello, estamos seguros que podemos
-                            garantizar resultados excepcionales.</p>
+                        <p>
+                            Un buen trabajo va de la mano de excelentes productos, por ello, estamos seguros que podemos
+                            garantizar resultados increíbles.
+                        </p>
                     </div>
                     <!-- Single Choose End -->
                     <!-- Single Choose Start -->
@@ -435,14 +456,11 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h6 class="sub-title">Menú de precios</h6>
-                            <h2 class="title">Todos los días <br> pueden ser viernes <img class="shape"
+                            <h2 class="title">Consiéntete con nosotros<img class="shape"
                                     src="/assets/images/shape/shape-15.webp" alt="Shape"></h2>
                         </div>
                         <!-- Section Title End -->
-                        <p class="text">Consiéntete con nosotros para verte y sentirte mejor. </p>
-                        <p>
-                            Si deseas agendar una cita, no dudes en contactarnos.
-                        </p>
+                        <p class="text">para verte y sentirte mejor</p>
                         <a href="https://wa.me/+526242125556?text=Hola%20me%20gustaría%20agendar%20una%20cita."
                             target="_blank" class="btn btn-primary btn-hover-dark">Agendar cita</a>
                     </div>
@@ -701,9 +719,8 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <!-- Contact Image Start -->
-                    <div class="contact-image " id="container1">
-                        <img src="assets/images/01.webp" width="541" height="520" alt="Contact">
-                        <img src="assets/images/02.webp" width="541" height="520" alt="Contact">
+                    <div class="contact-image " id="">
+                        <img src="assets/images/02.webp?=1" width="541" height="520" alt="Contact">
                     </div>
                     <!-- Contact Image End -->
                 </div>
