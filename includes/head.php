@@ -28,8 +28,12 @@
     <!-- Main Style CSS -->
     <link rel="stylesheet" href="/assets/css/style.css">
 
-     <!-- twenty-twenty -->
+    <!-- twenty-twenty -->
 
-     <link rel="stylesheet" href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/124874/twentytwenty.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/124874/twentytwenty.css" type="text/css"
+        media="screen" />
+
+    <!-- captcha -->
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 </head>

@@ -4,6 +4,10 @@
 $title = 'Inicio';
 $inicio = 'active';
 include('includes/head.php');
+
+if (isset($_GET)) {
+    include_once("php/msg.php");
+  }
 ?>
 
 <body>

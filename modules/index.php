@@ -793,35 +793,41 @@
                     <!-- Contact Form Start -->
                     <div class="contact-form">
                         <h3 class="form-title">Escríbenos</h3>
-                        <form action="#">
+                        <form method="post" action="/php/contact.php">
                             <div class="row">
                                 <div class="col-md-12">
                                     <!-- Single Form Start -->
                                     <div class="single-form">
-                                        <input type="text" placeholder="Nombre*">
+                                        <input type="text" name="nombre" id="nombre"  placeholder="Nombre*">
                                     </div>
                                     <!-- Single Form End -->
                                 </div>
                                 <div class="col-md-6">
                                     <!-- Single Form Start -->
                                     <div class="single-form">
-                                        <input type="text" placeholder="Teléfono*">
+                                        <input type="text" name="tel" id="tel"  placeholder="Teléfono*">
                                     </div>
                                     <!-- Single Form End -->
                                 </div>
                                 <div class="col-md-6">
                                     <!-- Single Form Start -->
                                     <div class="single-form">
-                                        <input type="email" placeholder="Tema">
+                                        <input type="text" name="asunto" id="asunto"  placeholder="Tema">
                                     </div>
                                     <!-- Single Form End -->
                                 </div>
                                 <div class="col-md-12">
                                     <!-- Single Form Start -->
                                     <div class="single-form">
-                                        <textarea placeholder="Déjanos tu mensaje "></textarea>
+                                        <textarea  name="msj" id="msj" placeholder="Déjanos tu mensaje "></textarea>
                                     </div>
                                     <!-- Single Form End -->
+                                </div>
+                                <div class="row justify-content-start" style="margin-bottom: 3rem; margin-top:3rem;">
+                                    <div class="col-12 col-md-5">
+                                        <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS"
+                                            required></div>
+                                    </div>
                                 </div>
                                 <div class="col-md-12">
                                     <!-- Single Form Start -->
